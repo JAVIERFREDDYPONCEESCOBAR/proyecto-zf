@@ -1,0 +1,1072 @@
+[19-Sep-2018 01:02:14 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:02:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:02:30 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:02:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:03:04 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:03:04 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:03:30 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:03:30 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:10:28 UTC] PHP Warning:  Use of undefined constant _DIR__ - assumed '_DIR__' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:10:28 UTC] PHP Warning:  require(_DIR__../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:10:28 UTC] PHP Fatal error:  require(): Failed opening required '_DIR__../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:10:31 UTC] PHP Warning:  Use of undefined constant _DIR__ - assumed '_DIR__' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:10:31 UTC] PHP Warning:  require(_DIR__../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:10:31 UTC] PHP Fatal error:  require(): Failed opening required '_DIR__../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:12:37 UTC] PHP Warning:  Use of undefined constant _DIR__ - assumed '_DIR__' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:12:37 UTC] PHP Warning:  require(_DIR__../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:12:37 UTC] PHP Fatal error:  require(): Failed opening required '_DIR__../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:12:40 UTC] PHP Warning:  Use of undefined constant _DIR__ - assumed '_DIR__' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:12:40 UTC] PHP Warning:  require(_DIR__../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:12:40 UTC] PHP Fatal error:  require(): Failed opening required '_DIR__../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:19:10 UTC] PHP Warning:  Use of undefined constant _DIR__ - assumed '_DIR__' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:19:10 UTC] PHP Warning:  require(_DIR__../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:19:10 UTC] PHP Fatal error:  require(): Failed opening required '_DIR__../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:20:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:21:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:21:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:22:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:24:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:25:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:26:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:27:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:27:58 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:27:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:29:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:30:35 UTC] PHP Warning:  Use of undefined constant _DIR_ - assumed '_DIR_' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:30:35 UTC] PHP Warning:  require(_DIR_/vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:30:35 UTC] PHP Fatal error:  require(): Failed opening required '_DIR_/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 3
+[19-Sep-2018 01:31:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 7
+[19-Sep-2018 01:34:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 7
+[19-Sep-2018 01:36:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 7
+[19-Sep-2018 01:42:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 7
+[19-Sep-2018 01:42:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 7
+[19-Sep-2018 01:44:03 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 01:44:03 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 01:44:20 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 01:44:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 01:44:31 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 01:44:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 01:46:11 UTC] PHP Warning:  require_once(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 01:46:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 01:46:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 01:47:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 01:51:16 UTC] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 4
+[19-Sep-2018 01:51:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 4
+[19-Sep-2018 01:54:32 UTC] PHP Fatal error:  Uncaught Error: Class 'TCPDF' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 7
+[19-Sep-2018 01:56:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 01:58:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 02:05:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 02:05:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 02:06:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 02:08:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 02:15:12 UTC] PHP Warning:  Use of undefined constant _DIR_ - assumed '_DIR_' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:15:12 UTC] PHP Warning:  require(_DIR_../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:15:12 UTC] PHP Fatal error:  require(): Failed opening required '_DIR_../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:15:23 UTC] PHP Warning:  Use of undefined constant _DIR_ - assumed '_DIR_' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:15:23 UTC] PHP Warning:  require(_DIR_/vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:15:23 UTC] PHP Fatal error:  require(): Failed opening required '_DIR_/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:16:42 UTC] PHP Warning:  Use of undefined constant _dir_ - assumed '_dir_' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:16:42 UTC] PHP Warning:  require(_dir_../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:16:42 UTC] PHP Fatal error:  require(): Failed opening required '_dir_../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:17:04 UTC] PHP Warning:  Use of undefined constant _dir_ - assumed '_dir_' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:17:04 UTC] PHP Warning:  require_once(_dir_../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:17:04 UTC] PHP Fatal error:  require_once(): Failed opening required '_dir_../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:17:24 UTC] PHP Warning:  Use of undefined constant _DIR_ - assumed '_DIR_' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:17:24 UTC] PHP Warning:  require_once(_DIR_../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:17:24 UTC] PHP Fatal error:  require_once(): Failed opening required '_DIR_../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:20:58 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:20:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:21:24 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:21:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:21:37 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:21:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:23:12 UTC] PHP Parse error:  syntax error, unexpected ''../vendor/autoload.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:24:25 UTC] PHP Parse error:  syntax error, unexpected ''../vendor/autoload.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:24:36 UTC] PHP Warning:  require_once(/composer/autoload_real.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/autoload.php on line 5
+[19-Sep-2018 02:24:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/composer/autoload_real.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/autoload.php on line 5
+[19-Sep-2018 02:24:38 UTC] PHP Warning:  require_once(/composer/autoload_real.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/autoload.php on line 5
+[19-Sep-2018 02:24:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/composer/autoload_real.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/autoload.php on line 5
+[19-Sep-2018 02:24:50 UTC] PHP Warning:  require_once(/composer/autoload_real.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/autoload.php on line 5
+[19-Sep-2018 02:24:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/composer/autoload_real.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/autoload.php on line 5
+[19-Sep-2018 02:25:02 UTC] PHP Warning:  require_once(/composer/autoload_real.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/autoload.php on line 5
+[19-Sep-2018 02:25:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/composer/autoload_real.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/autoload.php on line 5
+[19-Sep-2018 02:25:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 02:27:43 UTC] PHP Warning:  require_once(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:27:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:27:55 UTC] PHP Warning:  require_once(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:27:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:28:58 UTC] PHP Warning:  require_once(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:28:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:31:43 UTC] PHP Warning:  require_once(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:31:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 02:32:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 02:33:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 02:33:25 UTC] PHP Notice:  Undefined variable: html2pdf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 02:33:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function writeHTML() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 15:58:23 UTC] PHP Fatal error:  Cannot use Spipu\Html2Pdf\Html2Pdf as Html2Pdf because the name is already in use in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 15:58:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Spipu\Html2Pdf\Html2Pdf' not found in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 15:59:20 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 15:59:20 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 15:59:35 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 15:59:35 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 15:59:43 UTC] PHP Warning:  require(../vendor/autoload.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 15:59:43 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 2
+[19-Sep-2018 16:26:38 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 7
+[19-Sep-2018 16:26:38 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\Html2PdfException: The output document name [Estado de cuenta-] is not a PDF name in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:561
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#1 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 561
+[19-Sep-2018 16:27:00 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\Html2PdfException: The output document name [Estado de cuenta] is not a PDF name in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:561
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#1 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 561
+[19-Sep-2018 16:27:16 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\Html2PdfException: The output document name [Estado de cuenta] is not a PDF name in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:561
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#1 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 561
+[19-Sep-2018 16:34:21 UTC] PHP Parse error:  syntax error, unexpected ''.pdf'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 7
+[19-Sep-2018 21:41:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:6) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 7626
+[19-Sep-2018 21:41:56 UTC] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php:2926
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php(7628): TCPDF->Error('Some data has a...')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(575): TCPDF->Output('Estado_de_cuent...', 'I')
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 2926
+[19-Sep-2018 21:49:20 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 21:52:12 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 21:52:50 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:52:58 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:53:24 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:54:39 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:54:41 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:54:42 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:54:42 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:54:42 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:54:43 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:54:52 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 21:55:04 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:55:43 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 21:56:04 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(9): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 21:56:48 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 22:02:24 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 22:02:24 UTC] PHP Warning:  require_once(/wp/estado-de-cuenta): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 8
+[19-Sep-2018 22:02:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/wp/estado-de-cuenta' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 8
+[19-Sep-2018 22:03:25 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 22:03:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(8): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:03:31 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 22:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(8): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:04:16 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 22:04:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(8): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:04:20 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 5
+[19-Sep-2018 22:04:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(8): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:05:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(6): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:07:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(6): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:08:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(8): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:12:06 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 9
+[19-Sep-2018 22:14:55 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:23:55 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 9
+[19-Sep-2018 22:23:55 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 9
+[19-Sep-2018 22:25:05 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 9
+[19-Sep-2018 22:25:05 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 9
+[19-Sep-2018 22:27:47 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(11): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:28:36 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 22:30:15 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 22:37:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 12
+[19-Sep-2018 22:38:00 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 22:38:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:7) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 7626
+[19-Sep-2018 22:38:23 UTC] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php:2926
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php(7628): TCPDF->Error('Some data has a...')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(575): TCPDF->Output('Estado_de_cuent...', 'I')
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(11): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 2926
+[19-Sep-2018 22:38:23 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 22:40:46 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...', '\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:41:04 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:41:05 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:41:05 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:41:36 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:42:07 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(11): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:42:09 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(11): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n          \n<di...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 22:42:41 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[19-Sep-2018 22:51:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:53:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:53:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:53:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:53:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:53:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:54:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:54:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(7): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 22:55:27 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 4
+[19-Sep-2018 22:56:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 7626
+[19-Sep-2018 22:56:52 UTC] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php:2926
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php(7628): TCPDF->Error('Some data has a...')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(575): TCPDF->Output('Estado_de_cuent...', 'I')
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 2926
+[19-Sep-2018 22:56:52 UTC] PHP Notice:  Undefined index: datosf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 4
+[19-Sep-2018 23:01:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 7626
+[19-Sep-2018 23:01:33 UTC] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php:2926
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php(7628): TCPDF->Error('Some data has a...')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(575): TCPDF->Output('Estado_de_cuent...', 'I')
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 2926
+[19-Sep-2018 23:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 7626
+[19-Sep-2018 23:01:41 UTC] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php:2926
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php(7628): TCPDF->Error('Some data has a...')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(575): TCPDF->Output('Estado_de_cuent...', 'I')
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 2926
+[19-Sep-2018 23:02:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 7626
+[19-Sep-2018 23:02:20 UTC] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php:2926
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php(7628): TCPDF->Error('Some data has a...')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(575): TCPDF->Output('Estado_de_cuent...', 'I')
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 2926
+[19-Sep-2018 23:44:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php:5) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 7626
+[19-Sep-2018 23:44:14 UTC] PHP Fatal error:  Uncaught Exception: TCPDF ERROR: Some data has already been output to browser, can't send PDF file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php:2926
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php(7628): TCPDF->Error('Some data has a...')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(575): TCPDF->Output('Estado_de_cuent...', 'I')
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->output('Estado de cuent...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/tecnickcom/tcpdf/tcpdf.php on line 2926
+[19-Sep-2018 23:47:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): include('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:47:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): include('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:48:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): include('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): include('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:50:08 UTC] PHP Warning:  require_once(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/page-estado-de-cuenta.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 14
+[19-Sep-2018 23:50:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/page-estado-de-cuenta.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 14
+[19-Sep-2018 23:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): include('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): require('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(14): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:55:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php:9
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/page-estado-de-cuenta.php(2): include()
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(6): require_once('/home/hq9nrhjrm...')
+#2 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/header.php on line 9
+[19-Sep-2018 23:55:20 UTC] PHP Notice:  Undefined variable: g_pdf in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 8
+[19-Sep-2018 23:57:27 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('  <div class="t...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[19-Sep-2018 23:57:47 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ')' in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 10
+[20-Sep-2018 00:00:10 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [div] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:01:58 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:03:00 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:03:27 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tbody] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:03:41 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tbody] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:03:57 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [tbody] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:04:16 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:12:00 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div class="t...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:12:51 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(19): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\t<div class="t...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:13:53 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(18): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:15:28 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(17): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:16:10 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(17): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:16:42 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(19): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:16:44 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(19): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:19:32 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(19): Spipu\Html2Pdf\Html2Pdf->writeHTML('<div class="tab...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 00:20:46 UTC] PHP Parse error:  syntax error, unexpected ''../page-estado-de-cuenta.php'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 15
+[20-Sep-2018 00:23:08 UTC] PHP Warning:  require_once(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../page-estado-de-cuenta.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 15
+[20-Sep-2018 00:23:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../page-estado-de-cuenta.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 15
+[20-Sep-2018 00:24:26 UTC] PHP Warning:  require_once(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../page-estado-de-cuenta.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 8
+[20-Sep-2018 00:24:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../page-estado-de-cuenta.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 8
+[20-Sep-2018 00:25:36 UTC] PHP Notice:  Undefined variable: puntos_automatic_anuales in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 8
+[20-Sep-2018 00:25:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_meta() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 28
+[20-Sep-2018 00:27:12 UTC] PHP Notice:  Undefined variable: puntos_automatic_anuales in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 426
+[20-Sep-2018 00:27:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_meta() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php:446
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 446
+[20-Sep-2018 00:27:43 UTC] PHP Notice:  Undefined variable: puntos_automatic_anuales in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 9458
+[20-Sep-2018 00:27:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_user_meta() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php:9478
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 9478
+[20-Sep-2018 00:30:45 UTC] PHP Warning:  require(/../../../wp-load.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 6
+[20-Sep-2018 00:30:45 UTC] PHP Fatal error:  require(): Failed opening required '/../../../wp-load.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 6
+[20-Sep-2018 00:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 10
+[20-Sep-2018 00:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 10
+[20-Sep-2018 00:32:44 UTC] PHP Warning:  require(../../../wp-load.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 6
+[20-Sep-2018 00:32:44 UTC] PHP Fatal error:  require(): Failed opening required '../../../wp-load.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/estado_cuenta.php on line 6
+[20-Sep-2018 00:33:13 UTC] PHP Warning:  require(/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../page-estado-de-cuenta.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 8
+[20-Sep-2018 00:33:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes../page-estado-de-cuenta.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 8
+[20-Sep-2018 00:33:39 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(12): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:34:02 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:34:26 UTC] PHP Warning:  require_once(/estado_cuenta.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[20-Sep-2018 00:34:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/estado_cuenta.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[20-Sep-2018 00:34:57 UTC] PHP Warning:  require(/estado_cuenta.php): failed to open stream: No such file or directory in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[20-Sep-2018 00:34:57 UTC] PHP Fatal error:  require(): Failed opening required '/estado_cuenta.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php on line 6
+[20-Sep-2018 00:35:08 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:39:53 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:40:16 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:40:37 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:40:50 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:41:11 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:41:46 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n\n\n\n<sect...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:42:14 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [section] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(749): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(2704): Spipu\Html2Pdf\Html2Pdf->_setNewPage(NULL, '', Array, NULL, false)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1433): Spipu\Html2Pdf\Html2Pdf->_tag_open_PAGE(Array)
+#4 /home/ in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 00:42:50 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [section] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(749): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(2704): Spipu\Html2Pdf\Html2Pdf->_setNewPage(NULL, '', Array, NULL, false)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1433): Spipu\Html2Pdf\Html2Pdf->_tag_open_PAGE(Array)
+#4 /home/ in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 00:43:11 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [section] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(749): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(2704): Spipu\Html2Pdf\Html2Pdf->_setNewPage(NULL, '', Array, NULL, false)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1433): Spipu\Html2Pdf\Html2Pdf->_tag_open_PAGE(Array)
+#4 /home/ in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 00:43:47 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [section] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(749): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(2704): Spipu\Html2Pdf\Html2Pdf->_setNewPage(NULL, '', Array, NULL, false)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1433): Spipu\Html2Pdf\Html2Pdf->_tag_open_PAGE(Array)
+#4 /home/ in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 00:53:30 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [footer] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1401): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(595): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n<tabl...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 00:53:50 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [footer] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1401): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(595): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n<tabl...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 00:54:03 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [footer] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1401): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(595): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n<tabl...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 00:55:20 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n<se...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:56:34 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n<se...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:56:39 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n<se...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 00:57:37 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n   ...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 01:00:21 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n   ...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 01:01:29 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n   ...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 01:02:54 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [div] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n   ...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 01:03:58 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n   ...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 01:05:34 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [td] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n   ...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 01:07:47 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n   ...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 01:08:43 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [section] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(749): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(2704): Spipu\Html2Pdf\Html2Pdf->_setNewPage(NULL, '', Array, NULL, false)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1433): Spipu\Html2Pdf\Html2Pdf->_tag_open_PAGE(Array)
+#4 /home/ in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 01:09:22 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [section] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(749): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(2704): Spipu\Html2Pdf\Html2Pdf->_setNewPage(NULL, '', Array, NULL, false)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1433): Spipu\Html2Pdf\Html2Pdf->_tag_open_PAGE(Array)
+#4 /home/ in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 01:09:47 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [section] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(749): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(2704): Spipu\Html2Pdf\Html2Pdf->_setNewPage(NULL, '', Array, NULL, false)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1433): Spipu\Html2Pdf\Html2Pdf->_tag_open_PAGE(Array)
+#4 /home/ in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 01:12:19 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [footer] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(999): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1478): Spipu\Html2Pdf\Html2Pdf->_setNewLine(68.269611111111, NULL)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(3915): Spipu\Html2Pdf\Html2Pdf->_makeBreakLine(68.269611111111, NULL)
+# in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 01:12:35 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The html tag [script] is not known by Html2Pdf. You can create it and push it on the Html2Pdf GitHub project. in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php:1435
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1043): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(999): Spipu\Html2Pdf\Html2Pdf->_setNewPositionForNewLine(NULL)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(1478): Spipu\Html2Pdf\Html2Pdf->_setNewLine(68.269611111111, NULL)
+#3 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(3915): Spipu\Html2Pdf\Html2Pdf->_makeBreakLine(68.269611111111, NULL)
+# in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1435
+[20-Sep-2018 01:15:17 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: The tag [thead] must contain at least one tag [tr] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:212
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(178): Spipu\Html2Pdf\Parsing\Html->verifyMustContain(Array, 'thead', 'tr')
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('<page>\n  \n\n\n   ...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 212
+[20-Sep-2018 02:21:20 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [div] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 02:21:44 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [div] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[20-Sep-2018 02:22:14 UTC] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\HtmlParsingException: Tags are closed in a wrong order for [div] in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php:262
+Stack trace:
+#0 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php(94): Spipu\Html2Pdf\Parsing\Html->getTagAction(Object(Spipu\Html2Pdf\Parsing\Token), Array)
+#1 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Html2Pdf.php(594): Spipu\Html2Pdf\Parsing\Html->parse(Array)
+#2 /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/imprimir_estado_cuenta.php(10): Spipu\Html2Pdf\Html2Pdf->writeHTML('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...')
+#3 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/vendor/spipu/html2pdf/src/Parsing/Html.php on line 262
+[28-Sep-2018 15:19:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_number() on string in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 9
+[28-Sep-2018 16:03:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 29
+[28-Sep-2018 16:03:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_item_totals() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 48
+[28-Sep-2018 16:07:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 29
+[28-Sep-2018 16:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_item_totals() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 48
+[28-Sep-2018 16:10:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 29
+[28-Sep-2018 16:10:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_item_totals() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 48
+[28-Sep-2018 16:10:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 29
+[28-Sep-2018 16:10:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_item_totals() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 48
+[28-Sep-2018 16:11:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 29
+[28-Sep-2018 16:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_item_totals() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 48
+[28-Sep-2018 16:12:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 29
+[28-Sep-2018 16:12:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_item_totals() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 48
+[28-Sep-2018 16:12:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 29
+[28-Sep-2018 16:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_item_totals() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 48
+[28-Sep-2018 16:13:23 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 12
+[28-Sep-2018 16:13:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 29
+[28-Sep-2018 16:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_order_item_totals() on null in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 48
+[28-Sep-2018 16:28:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 128
+[28-Sep-2018 16:30:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 130
+[28-Sep-2018 16:37:22 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:22 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 106
+[28-Sep-2018 16:37:22 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:22 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 106
+[28-Sep-2018 16:37:22 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:22 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 106
+[28-Sep-2018 16:37:44 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:44 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:44 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:46 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:46 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:46 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
+[28-Sep-2018 16:37:47 UTC] PHP Warning:  Use of undefined constant value - assumed 'value' (this will throw an Error in a future version of PHP) in /home/hq9nrhjrm9fw/subdominios/zf/wp/wp-content/themes/produccion_zf/componentes/peticion_orden.php on line 103
